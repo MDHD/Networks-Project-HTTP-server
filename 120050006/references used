@@ -1,0 +1,30 @@
+Name:
+Manik Dhar
+120050006
+
+References Used:
+http://docs.oracle.com/javase/tutorial/networking/sockets/clientServer.html
+http://www.jmarshall.com/easy/http/#whatis
+http://stackoverflow.com/questions/18652107/how-to-send-both-binary-file-and-text-using-the-same-socket
+http://stackoverflow.com/questions/4824451/detect-end-of-http-request-body
+http://stackoverflow.com/questions/18816126/c-read-the-whole-file-in-buffer
+http://stackoverflow.com/questions/9520911/java-sending-and-receiving-file-byte-over-sockets
+http://stackoverflow.com/questions/19155201/http-keep-alive-timeout
+http://www.tcpipguide.com/free/t_HTTPResponseMessageFormat.htm
+http://stackoverflow.com/questions/5757290/http-header-line-break-style
+http://en.wikipedia.org/wiki/HTTP_pipelining
+http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
+http://stackoverflow.com/questions/12820874/what-is-the-functionality-of-setsotimeout-and-how-it-works
+http://docs.oracle.com/javase/7/docs/api/java/util/concurrent/BlockingQueue.html
+http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html
+http://stackoverflow.com/questions/6599202/java-how-interrupt-stop-a-thread
+http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html
+http://tools.ietf.org/id/draft-thomson-hybi-http-timeout-01.html
+http://stackoverflow.com/questions/19155201/http-keep-alive-timeout
+http://stackoverflow.com/questions/9746629/what-is-the-best-way-to-limit-number-of-threads-running-specific-method
+http://tutorials.jenkov.com/java-concurrency/semaphores.html
+www.mkyong.com/java/how-to-compress-a-file-in-gzip-format/
+http://en.wikipedia.org/wiki/HTTP_compression
+http://www.ietf.org/rfc/rfc3875
+http://java06.blogspot.in/2012/04/inflating-and-deflating.html
+http://www.xyzws.com/javafaq/how-to-run-external-programs-by-using-java-processbuilder-class/189

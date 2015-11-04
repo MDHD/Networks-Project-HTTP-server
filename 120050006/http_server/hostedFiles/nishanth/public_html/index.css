@@ -1,0 +1,26 @@
+body
+{ background-color:#f0f8ff; color:#0a2229; font-family:trebuchet; font-size:125%; }
+
+table
+{ font-size:100%; }
+
+h1
+{ text-align:center; }
+
+h2
+{ text-transform:uppercase; text-align:center; }
+
+table
+{ width:100%; text-align:center; }
+
+li
+{ padding:5px; }
+
+div
+{ width:50%; }
+
+dt
+{ font-style:italic; padding:5px; }
+
+dd
+{ padding:5px; }
